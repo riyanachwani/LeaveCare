@@ -7,6 +7,7 @@ import "utils/routes.dart";
 import "widget/themes.dart";
 import 'pages/home_page.dart';
 
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   if (kIsWeb) {
