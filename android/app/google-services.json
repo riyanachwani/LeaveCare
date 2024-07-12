@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273070570620",
+    "project_id": "leavecare-7a6b4",
+    "storage_bucket": "leavecare-7a6b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273070570620:android:6c50cb652906e6b7109df9",
+        "android_client_info": {
+          "package_name": "com.example.leavecare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr1Unx9AYPDgM7-0Eubdg3Dxe1LSUe0ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
