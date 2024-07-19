@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="# LeaveCare"></a>
-   LeaveCare 🍀
+   LeaveCare🍀
 </h1>
 
 ## `Project Title`
