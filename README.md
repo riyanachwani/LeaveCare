@@ -26,7 +26,10 @@ Ensure you have:
 - Firebase for authentication and Firestore for data management
 
 ## `Installation`
-- Clone the repository: [https://github.com/riyanachwani/LeaveCare.git](https://github.com/riyanachwani/LeaveCare.git)
+- Clone the repository:
+```bash
+   git clone https://github.com/riyanachwani/LeaveCare.git
+```
 - Open the project folder in your preferred IDE.
 - Run the project in your IDE.
 
